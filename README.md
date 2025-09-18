@@ -17,7 +17,7 @@ This type of solution is critical in industries such as manufacturing, mining, a
 ---
 
 ## Dataset
-The dataset is a publicly available simulated predictive maintenance dataset inspired by Microsoft’s case study.
+Link : https://drive.google.com/drive/folders/1RbV2Zx7rvWJcul-8VLjwL99TVO5Vr4Uh?usp=drive_link
 
 It includes:
 - Telemetry: Voltage, rotation, pressure, vibration (hourly sensor data).  
